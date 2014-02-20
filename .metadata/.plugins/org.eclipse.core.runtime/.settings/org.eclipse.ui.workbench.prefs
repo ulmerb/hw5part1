@@ -1,0 +1,3 @@
+#Thu Sep 15 10:47:04 PDT 2011
+PLUGINS_NOT_ACTIVATED_ON_STARTUP=org.eclipse.epp.usagedata.gathering;org.eclipse.epp.usagedata.recording;org.eclipse.equinox.p2.ui.sdk.scheduler;org.eclipse.update.scheduler;
+eclipse.preferences.version=1
